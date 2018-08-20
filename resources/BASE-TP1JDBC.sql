@@ -1,0 +1,11 @@
+CREATE DATABASE tp1jdbc;
+USE tp1jdbc;
+
+CREATE TABLE pizza(
+	ID INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    `CODE` VARCHAR(5),
+    WORDING VARCHAR(40),
+    PRICE DOUBLE
+    );
+    
+    select * from pizza;
