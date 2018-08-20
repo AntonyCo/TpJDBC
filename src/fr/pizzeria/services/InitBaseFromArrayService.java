@@ -14,6 +14,7 @@ public class InitBaseFromArrayService extends MenuService {
 	public void executeUC(Scanner scanner, IPizzaDao dao) throws SavePizzaSQLException {
 		System.out.println("Initialisation de la base à partir du tableau");
 		
+		
 		List<Pizza> pizzas = new ArrayList<>();
 		pizzas.add(new Pizza("PEP", "Pépéroni", 12.50));
 		pizzas.add(new Pizza("MAR", "Margherita", 14.00));

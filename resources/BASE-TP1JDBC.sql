@@ -7,5 +7,3 @@ CREATE TABLE pizza(
     WORDING VARCHAR(40),
     PRICE DOUBLE
     );
-    
-    select * from pizza;

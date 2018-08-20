@@ -40,6 +40,7 @@ public class PizzeriaAdminConsoleApp {
 			println("3. Mettre à jour une pizza ");
 			println("4. Supprimer une pizza ");
 			println("10. Initialiser le menu à partir du tableau de pizzas ");
+			println("20. Initialiser le menu à partir du fichier pizzas.txt ");
 			println("99. Sortir ");
 	
 			System.out.print("Veuillez choisir une option:");

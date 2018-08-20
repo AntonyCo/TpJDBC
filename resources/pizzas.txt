@@ -1,0 +1,9 @@
+PEP,Pépéroni,12.50
+MAR,Margherita,14.00
+REIN,La Reine,11.50
+FRO,La 4 fromages,12.00
+CAN,La cannibale,12.50
+SAV,La savoyarde,13.00
+ORI,L’orientale,13.50
+IND,L’indienne,14.00
+POI,Poivrons,25.50

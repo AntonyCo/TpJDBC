@@ -17,6 +17,8 @@ public class MenuServiceFactory {
 		}
 		else if(choix==10){
 			return new InitBaseFromArrayService();
+		}else if(choix==20){
+			return new InitBaseFromFilePizzasTxt();
 		}
 		else if(choix==99){
 			System.out.println("Bye :)");
